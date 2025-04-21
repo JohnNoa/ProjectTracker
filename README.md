@@ -9,7 +9,7 @@ This is a custom desktop utility developed that helps keep track of multiple pro
 *   Image upload: [Upload screenshots of your project's current status.]
 *   Data Persistence: [Pick up where you left off everytime you launch the application.]
 *   Immediate Feedback: [User can tell, at a glance, the status of each project]
-*   Search and Filter: [Easily s.ort or sift through tons of projects]
+*   Search and Filter: [Easily sort or sift through tons of projects]
 
 ### Technologies Used
 * Python
