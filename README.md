@@ -16,4 +16,4 @@ This is a custom desktop utility developed that helps keep track of multiple pro
 * PyQt5
 
 ### Full Demo Here:
-[![Application Demo Video Thumbnail](https://i9.ytimg.com/vi_webp/r3RtaS9o98k/mqdefault.webp?v=6806b5fc&sqp=CNjxmsAG&rs=AOn4CLCj5p-m_6ZIbt8LSzxLvoF9oCBhXg)](https://www.youtube.com/watch?v=https://youtu.be/r3RtaS9o98k)
+[![Application Demo Video Thumbnail](https://www.youtube.com/watch?v=https://youtu.be/r3RtaS9o98k)]
