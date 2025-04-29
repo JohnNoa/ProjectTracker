@@ -6,11 +6,7 @@ This is a custom desktop utility developed that helps keep track of multiple pro
 ![Workflow](https://github.com/user-attachments/assets/2523f6ff-0bde-47ed-85ec-4e8b55cf2fda)
 
 ### Key Features
-*   Image upload: [Upload screenshots of your project's current status.]
-*   Data Persistence: [Pick up where you left off everytime you launch the application.]
-*   Immediate Feedback: [User can tell, at a glance, the status of each project]
-*   Search and Filter: [Easily sort or sift through tons of projects]
-
-### Technologies Used
-* Python
-* PyQt5
+*   Image upload: Upload screenshots of your project's current status.
+*   Data Persistence: Pick up where you left off everytime you launch the application.
+*   Immediate Feedback: User can tell, at a glance, the status of each project.
+*   Search and Filter: Easily sort or sift through tons of projects.
